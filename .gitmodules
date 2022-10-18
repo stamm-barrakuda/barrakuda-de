@@ -1,0 +1,3 @@
+[submodule "themes/hugo-barrakuda-theme"]
+	path = themes/hugo-barrakuda-theme
+	url = ssh://git@github.com/jzbor/hugo-barrakuda-theme
