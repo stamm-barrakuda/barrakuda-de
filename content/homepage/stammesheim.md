@@ -1,7 +1,7 @@
 ---
 title: 'Stammesheim'
-weight: 2
-background: 'images/headers/Bula-7-light.jpg'
+weight: 3
+background: 'images/headers/Stammesheim-1.jpg'
 button: 'Mehr Erfahren'
 buttonLink: 'stammesheim'
 ---

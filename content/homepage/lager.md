@@ -1,9 +1,9 @@
 ---
 title: 'Lager'
-weight: 1
-background: 'images/headers/Bula-7-light.jpg'
+weight: 2
+background: 'images/headers/Bula-7.jpg'
 button: 'Mehr Erfahren'
-buttonLink: 'camps'
+buttonLink: 'lager'
 ---
 
 Neben den regelmäßigen Wochenstunden gibt es bei uns in den Ferien und an Wochenenden auch Lager.

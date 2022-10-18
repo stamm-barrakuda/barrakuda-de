@@ -1,7 +1,7 @@
 ---
 title: 'Über uns'
-weight: 3
-background: 'images/headers/Bula-6.jpg'
+weight: 1
+background: 'images/headers/Bula-7-light.jpg'
 button: 'Mehr erfahren'
 buttonLink: 'stamm'
 ---
