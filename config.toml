@@ -1,3 +1,53 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://barrakuda.de/"
+languageCode = "de-de"
+title = "Stamm Barrakuda"
+theme = "hugo-barrakuda-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.92.0"
+
+[params]
+  google_analytics_id=""
+
+  [params.logo]
+    mobile = "images/barrakuda.svg"
+    mobile_height = "36px"
+    mobile_width = "36px"
+    # desktop = "images/barrakuda.svg"
+    desktop_height = "36px"
+    desktop_width = "36px"
+    alt = "Stamm Barrakuda"
+
+  [params.homepage_meta_tags]
+    meta_description = "Stamm Barrakuda - Bester Stamm der Welt"
+    meta_og_title = "Hugo Hero Theme"
+    meta_og_type = "website"
+    meta_og_url = "https://barrakuda.de"
+    # meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
+    meta_og_description = "Stamm Barrakuda - Bester Stamm der Welt"
+
+[[menu.main]]
+    name = "Gruppen"
+    url = "/groups/"
+    weight = 1
+
+[[menu.main]]
+    name = "Lager"
+    url = "/camps/"
+    weight = 2
+
+[[menu.main]]
+    name = "Stamm"
+    url = "/stamm/"
+    weight = 3
+
+[[menu.main]]
+    name = "Stammesheim"
+    url = "/stammesheim/"
+    weight = 3
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
