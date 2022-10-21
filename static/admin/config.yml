@@ -20,4 +20,9 @@ collections:
       - {label: "Untertitel", name: "heroSubHeading", widget: "string", required: false}
       - {label: "Datum", name: "date", widget: "datetime"}
       - {label: "Foto", name: "thumbnail", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Bilder"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image}}'
+        field: {label: Image, name: image, widget: image}
+      - {label: "Inhalt", name: "body", widget: "markdown", required: false}
