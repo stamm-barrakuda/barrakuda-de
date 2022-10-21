@@ -1,14 +1,11 @@
 ---
 title: 'Sippe Suppe'
+subtitle: 'Wir sind die Sippe Suppe'
 date: 2018-11-18T12:33:46+10:00
 icon: 'images/Lilie.png'
 draft: false
 featured: true
 weight: 100
-
-heroHeading: 'Sippe Suppe'
-heroSubHeading: 'Wir sind die Sippe Suppe'
-heroBackground: 'images/BulaCafe.jpg'
 
 meets: Mittwochs, 17:30 - 19:00
 years: 2008 - 2009

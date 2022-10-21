@@ -1,9 +1,7 @@
 ---
-title: 'Stammesheim'
+title: 'Unser Stammesheim'
 date: 2018-12-06T09:29:16+10:00
 layout: 'single'
-heroHeading: 'Unser Stammesheim'
-heroSubHeading: ""
 heroBackground: 'images/stammesheim/Stammesheim-1.jpg'
 images: [
     'images/stammesheim/Stammesheim-1.jpg',

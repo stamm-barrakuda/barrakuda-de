@@ -1,9 +1,8 @@
 ---
 title: 'Stammesführung'
+subtitle: 'Vorstand des Stamm Barrakuda'
 date: 2018-12-06T09:29:16+10:00
 layout: 'single'
-heroHeading: 'Stammesführung'
-heroSubHeading: 'Vorstand des Stamm Barrakuda'
 heroBackground: 'images/stammesfuehrung/Stafue-1.jpg'
 ---
 

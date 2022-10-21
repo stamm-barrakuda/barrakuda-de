@@ -1,10 +1,9 @@
 ---
 title: 'Bundeslager in Königsdorf'
+subtitle: 'Bundesweites Zeltlager der Pfadfinder*innen des BdP'
 date: 2018-11-18T12:33:46+10:00
 draft: false
 weight: 3
-heroHeading: 'Bundeslager in Königsdorf'
-heroSubHeading: 'Bundesweites Zeltlager der Pfadfinder*innen des BdP'
 heroBackground: 'images/bula22/Bula-2.jpg'
 thumbnail: 'images/bula22/Bula-2.jpg'
 images: [

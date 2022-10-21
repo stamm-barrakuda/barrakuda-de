@@ -1,9 +1,8 @@
 ---
 title: 'Über unseren Stamm'
+subtitle: "Pfadfinden in Vaterstetten seit 1973"
 date: 2018-12-06T09:29:16+10:00
 layout: 'stamm'
-heroHeading: 'Über unseren Stamm'
-heroSubHeading: "Pfadfinden in Vaterstetten seit 1973"
 heroBackground: 'images/headers/Bula-3.jpg'
 ---
 
