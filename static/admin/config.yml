@@ -83,6 +83,9 @@ collections:
       - {label: "Untertitel", name: "subtitle", widget: "string", required: false}
       - {label: "Datum", name: "date", widget: "datetime"}
 
+      - {label: "Gewichtung (UI)", name: "weight", widget: "number", default: "1"}
+      - {label: "Icon", name: "icon", widget: "image"}
+
       - {label: "Gruppenstunde", name: "meets", widget: "string", default: "unregelmäßig"}
       - {label: "Jahrgänge", name: "years", widget: "string", default: "noch unbekannt"}
       - {label: "Gruppenleitung", name: "leaders", widget: "string", default: "noch unbekannt"}
