@@ -18,3 +18,7 @@ Am letzten Tag unseres Lagers hat uns Boris noch die Möglichkeit gegeben, eine 
 Ein riesiges Danke an alle, die dieses schöne Pfingstlager ermöglicht haben! ❤️ 
 
 Norden ist unser Glück und wir schwören uns ein neues Zurück
+
+
+
+*~ Lagerbericht der Sipplinge und Rover vom Stamm Sigena*
