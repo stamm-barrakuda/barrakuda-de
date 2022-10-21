@@ -9,13 +9,15 @@ theme = "hugo-barrakuda-theme"
     min = "0.92.0"
 
 [params]
-  google_analytics_id=""
+  google_analytics_id = ""
+  subfooter = true
+  repo = "github.com/stamm-barrakuda"
 
   [params.logo]
     mobile = "images/barrakuda.svg"
     mobile_height = "36px"
     mobile_width = "36px"
-    # desktop = "images/barrakuda.svg"
+    desktop = "images/barrakuda.svg"
     desktop_height = "36px"
     desktop_width = "36px"
     alt = "Stamm Barrakuda"
@@ -30,12 +32,12 @@ theme = "hugo-barrakuda-theme"
 
 [[menu.main]]
     name = "Gruppen"
-    url = "/groups/"
+    url = "/gruppen/"
     weight = 1
 
 [[menu.main]]
     name = "Lager"
-    url = "/camps/"
+    url = "/lager/"
     weight = 2
 
 [[menu.main]]
