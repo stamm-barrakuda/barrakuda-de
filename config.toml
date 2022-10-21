@@ -14,12 +14,12 @@ theme = "hugo-barrakuda-theme"
   repo = "github.com/stamm-barrakuda"
 
   [params.logo]
-    mobile = "images/barrakuda.svg"
+    mobile = "images/logo.svg"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "images/barrakuda.svg"
-    desktop_height = "36px"
-    desktop_width = "36px"
+    desktop = "images/logo-desktop.svg"
+    desktop_height = "40px"
+    desktop_width = "40px"
     alt = "Stamm Barrakuda"
 
   [params.homepage_meta_tags]
