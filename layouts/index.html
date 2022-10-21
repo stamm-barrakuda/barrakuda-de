@@ -36,7 +36,7 @@
 </div>
 {{ end }}
 
-{{ $groups := where (where .Site.RegularPages "Type" "groups") ".Params.featured" true }}
+{{ $groups := where (where .Site.RegularPages "Type" "gruppen") ".Params.featured" true }}
 {{if gt (len $groups) 0}}
 <div class="container pt-8 pb-8 pb-md-14 pt-md-14">
   <div class="row justify-content-start">
@@ -49,7 +49,7 @@
     </div>
     {{ end }}
     <div class="col-12 text-center">
-      <a class="button button-primary" href="{{ .Site.BaseURL }}groups">Alle Gruppen anzeigen</a>
+      <a class="button button-primary" href="{{ .Site.BaseURL }}gruppen">Alle Gruppen anzeigen</a>
     </div>
   </div>
 </div>
@@ -70,6 +70,14 @@
   </div>
 </div>
 {{ end }}
+
+<div class="container pt-8 pb-8 pb-md-14 pt-md-14">
+  <div class="row justify-content-start">
+    <div class="col-12 text-center">
+       <iframe width="400" height="100%" frameborder=0 name="iframe" src="{{ .Params.calendar }}"></iframe>
+    </div>
+  </div>
+</div>
 
 {{ range first 1 (after 2 $reusablePages) }}
 <div id="home" class="strip bg-primary bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
