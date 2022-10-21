@@ -2,7 +2,7 @@
 title: 'Freundeskreis'
 date: 2018-12-06T09:29:16+10:00
 layout: 'single'
-heroBackground: 'images/stammesheim/Stammesheim-1.jpg'
+thumbnail: 'images/stammesheim/Stammesheim-1.jpg'
 ---
 
 Liebe Eltern, liebe Freunde der Barrakudas,

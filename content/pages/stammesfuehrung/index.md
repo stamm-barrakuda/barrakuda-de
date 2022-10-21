@@ -3,7 +3,7 @@ title: 'Stammesführung'
 subtitle: 'Vorstand des Stamm Barrakuda'
 date: 2018-12-06T09:29:16+10:00
 layout: 'single'
-heroBackground: 'images/stammesfuehrung/Stafue-1.jpg'
+thumbnail: 'images/stammesfuehrung/Stafue-1.jpg'
 ---
 
     Stammesführung: Hannah Berrenberg

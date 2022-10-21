@@ -8,7 +8,7 @@ featured: true
 weight: 200
 
 
-heroBackground: 'images/BulaCafe.jpg'
+thumbnail: 'images/BulaCafe.jpg'
 meets: unregelmäßig
 years: 2005 und älter
 leaders: keine ;)

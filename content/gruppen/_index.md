@@ -2,7 +2,7 @@
 title: 'Gruppen'
 subtitle: 'Unsere Gruppenstunden finden wöchentlich am Stammesheim statt'
 date: 2018-02-10T11:52:18+07:00
-heroBackground: 'images/headers/Essenskreis.jpg'
+thumbnail: 'images/headers/Essenskreis.jpg'
 ---
 
 Wir treffen uns (außerhalb der Ferien) wöchentlich zu Gruppenstunden am Stammesheim.
