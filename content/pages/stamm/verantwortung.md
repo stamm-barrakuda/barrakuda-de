@@ -8,5 +8,5 @@ button: 'Aktuelle Stammesführung'
 buttonLink: 'stammesfuehrung'
 ---
 
-Der Stamm wird geleitet von der Stammesführung, die einmal im Jahr von allen Mitgliedern gewählt wird.
+Der Stamm wird geleitet von der Stammesführung, die einmal alle zwei Jahre von allen Mitgliedern gewählt wird.
 Wichtige Entscheidungen und organisatorische Fragen werden offen im Stammesrat diskutiert, an dem alle ab der Pfadi-Stufe teilnehmen können.
