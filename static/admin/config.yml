@@ -9,6 +9,29 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 
 
 collections:
+  - name: "gruppen"
+    label: "Gruppen"
+    folder: "content/gruppen"
+    slug: "{{slug}}"
+    create: true
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Untertitel", name: "subtitle", widget: "string", required: false}
+      - {label: "Datum", name: "date", widget: "datetime"}
+
+      - {label: "Gruppenstunde", name: "meets", widget: "string", required: false}
+      - {label: "Jahrgänge", name: "years", widget: "string", required: false}
+      - {label: "Gruppenleitung", name: "leaders", widget: "string", required: false}
+      - {label: "Kontakt", name: "contact", widget: "string", required: false}
+
+      - {label: "Foto", name: "thumbnail", widget: "image", required: false}
+      - label: "Bilder"
+        name: "images"
+        widget: "list"
+        summary: '{{fields.image}}'
+        field: {label: Image, name: image, widget: image}
+        required: false
+      - {label: "Inhalt", name: "body", widget: "markdown", required: false}
   - name: "lager"
     label: "Lager"
     folder: "content/lager"
@@ -16,8 +39,7 @@ collections:
     create: true
     fields:
       - {label: "Titel", name: "title", widget: "string"}
-      - {label: "Nochmal Titel", name: "heroHeading", widget: "string"}
-      - {label: "Untertitel", name: "heroSubHeading", widget: "string", required: false}
+      - {label: "Untertitel", name: "subtitle", widget: "string", required: false}
       - {label: "Datum", name: "date", widget: "datetime"}
       - {label: "Foto", name: "thumbnail", widget: "image", required: false}
       - label: "Bilder"
@@ -25,4 +47,5 @@ collections:
         widget: "list"
         summary: '{{fields.image}}'
         field: {label: Image, name: image, widget: image}
+        required: false
       - {label: "Inhalt", name: "body", widget: "markdown", required: false}
