@@ -108,6 +108,7 @@ collections:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Untertitel", name: "subtitle", widget: "string", required: false}
       - {label: "Datum", name: "date", widget: "datetime"}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: false}
       - {label: "Foto", name: "thumbnail", widget: "image", required: false}
       - label: "Bilder"
         name: "images"
