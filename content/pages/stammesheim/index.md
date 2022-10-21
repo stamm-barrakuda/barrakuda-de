@@ -16,6 +16,8 @@ Das Haus besteht aus einem großem Raum, in dem unsere Jüngsten toben können, 
 Bis zu 12 Personen können im Haus übernachten, wobei Schlafsack und Isomatte mitgebracht werden müssen.
 Unser Heim liegt ca. 15 Minuten zu Fuß von der S-Bahn-Haltestelle Baldham entfernt.
 
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=11.780570447444916%2C48.10659478114632%2C11.781742572784424%2C48.10814758650951&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/48.10737/11.78116">View Larger Map</a></small>
+
 ## Ausstattung
 In der Küche findet ihr Spüle, Herd und Ofen.
 Im Garten ist Platz für einige Zelte sowie einige Sitzgelegenheiten, eine Feuerstelle und einen Pizzaofen.

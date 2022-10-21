@@ -62,7 +62,7 @@ Spenden und Mitgliedsbeiträge können lt. Bescheid vom Finanzamt München von d
 ## Kontakt
     Marius Herrmann
     Vorsitzender
-    freundeskreis@barrakuda.de
+    freundeskreis <at> barrakuda.de
 
     Michael Weinberger
     Stellv. Vorsitzender

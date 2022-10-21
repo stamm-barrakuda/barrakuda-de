@@ -8,7 +8,7 @@ heroBackground: ''
 ---
 
 ## Kontakt:
-admin@barrakuda.de; Tel.: 08106-9989335
+admin <at> barrakuda.de; Tel.: 08106-9989335
 
 
 ## Angaben gemäß § 5 TMG:
@@ -99,7 +99,7 @@ Quelle: https://www.e-recht24.de/impressumgenerator.html
 
 Wir informieren Sie hier über den Umgang mit Ihren personenbezogenen Daten bei Nutzung unseres Webauftrittes. Personenbezogene Daten sind hierbei alle Daten, mit denen Sie persönlich identifiziert werden können.
 
-Verantwortlich für die Datenverarbeitung dieses Webauftrittes nach der Datenschutz-Grundverordnung (DSGVO) ist Bund der Pfadfinderinnen und Pfadfinder Landesverband Bayern Stamm Barrakuda, Gluckstr.33, 85591 Vaterstetten, Deutschland, E-Mail: admin@barrakuda.de, Tel.: 08106-9989335. Der für die Verarbeitung von personenbezogenen Daten Verantwortliche ist diejenige natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet.
+Verantwortlich für die Datenverarbeitung dieses Webauftrittes nach der Datenschutz-Grundverordnung (DSGVO) ist Bund der Pfadfinderinnen und Pfadfinder Landesverband Bayern Stamm Barrakuda, Gluckstr.33, 85591 Vaterstetten, Deutschland, E-Mail: admin <at> barrakuda.de, Tel.: 08106-9989335. Der für die Verarbeitung von personenbezogenen Daten Verantwortliche ist diejenige natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet.
 
 Diese Website nutzt aus Sicherheitsgründen und zum Schutz der Übertragung personenbezogene Daten und anderer vertraulichr Inhalte eine SSL- und/oder TLS-Verschlüsselung. Dies ist an Zeichenfolge „https://“ zu Beginn der URL zu erkennen.
 
