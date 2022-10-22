@@ -9,70 +9,6 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 
 
 collections:
-  - name: "pages"
-    label: "Seiten"
-    folder: "content/pages"
-    files:
-    - label: "Stamm"
-      name: "stamm"
-      file: "content/pages/stamm/index.md"
-      fields:
-        - {label: "Titel", name: "title", widget: "string"}
-        - {label: "Untertitel", name: "subtitle", widget: "string", required: false}
-        - {label: "Datum", name: "date", widget: "datetime"}
-        - {label: "Foto", name: "thumbnail", widget: "image", required: false}
-        - label: "Bilder"
-          name: "images"
-          widget: "list"
-          summary: '{{fields.image}}'
-          field: {label: Image, name: image, widget: image}
-          required: false
-        - {label: "Inhalt", name: "body", widget: "markdown", required: false}
-    - label: "Stammesheim"
-      name: "stammesheim"
-      file: "content/pages/stammesheim/index.md"
-      fields:
-        - {label: "Titel", name: "title", widget: "string"}
-        - {label: "Untertitel", name: "subtitle", widget: "string", required: false}
-        - {label: "Datum", name: "date", widget: "datetime"}
-        - {label: "Foto", name: "thumbnail", widget: "image", required: false}
-        - label: "Bilder"
-          name: "images"
-          widget: "list"
-          summary: '{{fields.image}}'
-          field: {label: Image, name: image, widget: image}
-          required: false
-        - {label: "Inhalt", name: "body", widget: "markdown", required: false}
-    - label: "Stammesführung"
-      name: "stammesfuehrung"
-      file: "content/pages/stammesfuehrung/index.md"
-      fields:
-        - {label: "Titel", name: "title", widget: "string"}
-        - {label: "Untertitel", name: "subtitle", widget: "string", required: false}
-        - {label: "Datum", name: "date", widget: "datetime"}
-        - {label: "Foto", name: "thumbnail", widget: "image", required: false}
-        - label: "Bilder"
-          name: "images"
-          widget: "list"
-          summary: '{{fields.image}}'
-          field: {label: Image, name: image, widget: image}
-          required: false
-        - {label: "Inhalt", name: "body", widget: "markdown", required: false}
-    - label: "Freundeskreis"
-      name: "freundeskreis"
-      file: "content/pages/freundeskreis/index.md"
-      fields:
-        - {label: "Titel", name: "title", widget: "string"}
-        - {label: "Untertitel", name: "subtitle", widget: "string", required: false}
-        - {label: "Datum", name: "date", widget: "datetime"}
-        - {label: "Foto", name: "thumbnail", widget: "image", required: false}
-        - label: "Bilder"
-          name: "images"
-          widget: "list"
-          summary: '{{fields.image}}'
-          field: {label: Image, name: image, widget: image}
-          required: false
-        - {label: "Inhalt", name: "body", widget: "markdown", required: false}
   - name: "gruppen"
     label: "Gruppen"
     folder: "content/gruppen"
@@ -116,4 +52,40 @@ collections:
         summary: '{{fields.image}}'
         field: {label: Image, name: image, widget: image}
         required: false
+      - {label: "Inhalt", name: "body", widget: "markdown", required: false}
+  - name: "stamm"
+    label: "Stamm"
+    folder: "content/pages/stamm"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Untertitel", name: "subtitle", widget: "string", required: false}
+      - {label: "Datum", name: "date", widget: "datetime"}
+      - {label: "Foto", name: "thumbnail", widget: "image", required: false}
+      - {label: "Inhalt", name: "body", widget: "markdown", required: false}
+  - name: "stammesheim"
+    label: "Stammesheim"
+    folder: "content/pages/stammesheim"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Untertitel", name: "subtitle", widget: "string", required: false}
+      - {label: "Datum", name: "date", widget: "datetime"}
+      - {label: "Foto", name: "thumbnail", widget: "image", required: false}
+      - {label: "Inhalt", name: "body", widget: "markdown", required: false}
+  - name: "stammesefuehrung"
+    label: "Stammesführung"
+    folder: "content/pages/stammesfuehrung"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Untertitel", name: "subtitle", widget: "string", required: false}
+      - {label: "Datum", name: "date", widget: "datetime"}
+      - {label: "Foto", name: "thumbnail", widget: "image", required: false}
+      - {label: "Inhalt", name: "body", widget: "markdown", required: false}
+  - name: "freundeskreis"
+    label: "Freundeskreis"
+    folder: "content/pages/freundeskreis"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Untertitel", name: "subtitle", widget: "string", required: false}
+      - {label: "Datum", name: "date", widget: "datetime"}
+      - {label: "Foto", name: "thumbnail", widget: "image", required: false}
       - {label: "Inhalt", name: "body", widget: "markdown", required: false}
