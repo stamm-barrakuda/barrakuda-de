@@ -56,15 +56,17 @@ collections:
   - name: "stamm"
     label: "Stamm"
     folder: "content/pages/stamm"
+    create: false
     fields:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Untertitel", name: "subtitle", widget: "string", required: false}
       - {label: "Datum", name: "date", widget: "datetime"}
-      - {label: "Foto", name: "thumbnail", widget: "image", required: false}
+      # - {label: "Foto", name: "thumbnail", widget: "image", required: false}
       - {label: "Inhalt", name: "body", widget: "markdown", required: false}
   - name: "stammesheim"
     label: "Stammesheim"
     folder: "content/pages/stammesheim"
+    create: false
     fields:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Untertitel", name: "subtitle", widget: "string", required: false}
@@ -74,6 +76,7 @@ collections:
   - name: "stammesefuehrung"
     label: "Stammesführung"
     folder: "content/pages/stammesfuehrung"
+    create: false
     fields:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Untertitel", name: "subtitle", widget: "string", required: false}
@@ -83,6 +86,7 @@ collections:
   - name: "freundeskreis"
     label: "Freundeskreis"
     folder: "content/pages/freundeskreis"
+    create: false
     fields:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Untertitel", name: "subtitle", widget: "string", required: false}
