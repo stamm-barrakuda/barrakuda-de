@@ -36,7 +36,8 @@
 </div>
 {{ end }}
 
-{{ $groups := where (where .Site.RegularPages "Type" "gruppen") ".Params.featured" true }}
+<!-- {{ $groups := where (where .Site.RegularPages "Type" "gruppen") ".Params.featured" true }} -->
+{{ $groups := where .Site.RegularPages "Type" "gruppen" }}
 {{if gt (len $groups) 0}}
 <div class="container pt-8 pb-8 pb-md-14 pt-md-14">
   <div class="row justify-content-start">
