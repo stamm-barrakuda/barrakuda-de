@@ -38,7 +38,7 @@ Solltet ihr Internet benötigen steht euch außerdem ein WLAN-Zugang zu Verfügu
 
 ## Preise und Spielregeln
 
-**Heim inklusive Zeltplatz:** 7,50 Euro pro Person / min. 20,- Euro pro Nacht
+**Heim inklusive Zeltplatz (pro Nacht):** 7,50 Euro pro Person / min. 20,- Euro
 
 **Tages-Veranstaltungen:** <30 Personen: 60 Euro pauschal; >30 Personen: 100 Euro pauschal
 
