@@ -138,16 +138,6 @@ Sie können ihren Browser so konfigurieren, dass Sie über das Abspeichern von C
 Sollten sie mit uns in Kontakt treten, werden personenbezogene Daten erhoben. Diese Daten werden ausschließlich zur Beantwortung Ihres Anliegens beziehungsweise für die Kontaktaufnahme und die daraus resultierende technische Administration gespeichert und genutzt. Rechtsgrundlage für die Verarbeitung der Daten ist unser berechtigtes Interesse an der Beantwortung Ihres Anliegens gemäß Art. 6 Abs. 1 lit. f DSGVO. Ist der Zweck ihrer Kontaktaufnahme der Abschluss eines Vertrages ab, so besteht zusaetzliche Rechtsgrundlage für die Verarbeitung Art. 6 Abs. 1 lit. b DSGVO. Ihre Daten werden nach abschließender Bearbeitung Ihrer Anfrage gelöscht, dies ist der Fall, wenn sich aus den Umständen entnehmen lässt, dass der betroffene Sachverhalt abschließend geklärt ist und sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
 
 
-### Google Web Fonts
-
-Diese Seite nutzt zur einheitlichen Darstellung von Schriftarten so genannte Web Fonts die von der Google LLC., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA („Google“) bereitgestellt werden. Beim Aufruf einer Seite lädt Ihr Browser die benötigten Web Fonts in ihren Browser-Cache, um Texte und Schriftarten korrekt anzuzeigen.
-Zu diesem Zwecke mus der von Ihnen genutzt Browser Verbindung zu den Servern von Google aufnehmen. Hierdurch erlangt Google Kenntnis darüber, dass über Ihre
-IP-Adresse unsere Website aufgerufen wurde. Die Nutzung von Google Web Fonts erfolgt im Interesse einer einheitlichen und ansprechenden Darstellung unserer
-Online-Angebote. Die Nutzung dieser Anwendung dient der korrekten und einheitlichen Darstellung unseres Webauftritts. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. Google LLC mit Sitz in den USA ist für das us-europäische Datenschutzübereinkommen „Privacy Shield“ zertifiziert, welches die Einhaltung des in der EU geltenden Datenschutzniveaus gewährleistet.
-Weitere Informationen zu Google Web Fonts finden Sie unter
-https://developers.google.com/fonts/faq und in der Datenschutzerklärung von Google: https://www.google.com/policies/privacy/
-
-
 ### Rechte des Betroffenen
 
 Das gültige Datenschutzrecht gewährt Ihnen gegenüber dem Verantwortlichen in Hinsicht auf personenbezogene Daten einige Betroffenenrechte:
