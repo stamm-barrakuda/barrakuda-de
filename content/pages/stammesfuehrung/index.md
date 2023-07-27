@@ -6,9 +6,10 @@ layout: 'single'
 thumbnail: 'images/stammesfuehrung/Stafue-1.jpg'
 ---
 
-    Stammesführung: Hannah Berrenberg
-    Stellv. Stammesführung: Elias Sedlmayr
-    Stellv. Stammesführung: Malte Marziniak
+    Stammesführung: Malte Marziniak
+    Stammesführung: Elias Sedlmayr
+    Stellv. Stammesführung: Maja Christ
+    Stellv. Stammesführung: Luisa Scholz
     Schatzmeister: Keenan Christ
 
 ## Kontakt

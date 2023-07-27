@@ -10,7 +10,7 @@ weight: 200
 
 thumbnail: 'images/BulaCafe.jpg'
 meets: unregelmäßig
-years: 2005 und älter
+years: 2006 und älter
 leaders: keine ;)
 contact: stafue <at> barrakuda.de
 ---

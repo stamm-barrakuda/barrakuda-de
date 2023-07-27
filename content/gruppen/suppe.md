@@ -10,7 +10,7 @@ weight: 100
 meets: Mittwochs, 17:30 - 19:00
 years: 2008 - 2009
 leaders: Malte Marziniak
-contact: stafue <at> barrakuda.de
+contact: stafue@barrakuda.de
 ---
 
 Wir sind die Sippe Suppe und gehen zusammen gerne auf Fahrt, fahren auf Lager oder hängen am Stammesheim rum.

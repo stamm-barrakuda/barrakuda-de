@@ -1,5 +1,5 @@
 ---
-title: Neue Meute
+title: Meute Wall-E
 date: 2022-10-29T18:01:48.580Z
 weight: "1"
 icon: /images/uploads/Wolf.png

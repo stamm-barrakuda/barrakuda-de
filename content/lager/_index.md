@@ -15,4 +15,4 @@ Alle Lager und sonstigen Termine findet ihr in **[unserem Kalendar](https://clou
 
 #### Anmeldungen
 
-* [Leiterfahrt 2022](https://cloud.barrakuda.de/s/zZPbeCm4CiSnLFH)
+**[Hier könnt ihr Anmeldungen für Lager und Aktionen runterladen](/downloads)**
