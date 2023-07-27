@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Lato:400|Open+Sans:400,700");
+@import url("https://fonts.bunny.net/css?family=Lato:400|Open+Sans:400,700");
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
