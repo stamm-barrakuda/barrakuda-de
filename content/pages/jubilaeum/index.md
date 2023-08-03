@@ -17,6 +17,10 @@ Ab 19:30 gibt es dann intern für Pfadis, Familien und Gäste ein Abendprogramm 
 * **Ab 17:00** Grillen und gemütliches Beisammensein
 * **Ab 19:30** Großes Abendprogramm, Party (nur Intern, geschlossene Veranstaltung)
 
+### Informationen für Pfadis
+Alle Eltern, RRs, Pfadis und Wölflinge finden **[hier](https://cloud.barrakuda.de/s/L6Mf5P7qjFsd7MP)** mehr Infos.
+Wenn ihr direkt zur Anmeldung wollt gehts [hier lang](https://cloud.barrakuda.de/apps/forms/s/xJG356cnmjKgkaYanqsKJ7xG).
+
 ### Adresse:
 ```
 Gluckstr. 33
