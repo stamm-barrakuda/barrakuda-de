@@ -48,7 +48,13 @@ theme = "hugo-barrakuda-theme"
 [[menu.main]]
     name = "Stammesheim"
     url = "/stammesheim/"
-    weight = 3
+    weight = 4
+
+[[menu.main]]
+    name = "Jubiläum"
+    url = "/jubilaeum/"
+    weight = 5
+
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
