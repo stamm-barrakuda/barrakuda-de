@@ -93,3 +93,13 @@ collections:
       - {label: "Datum", name: "date", widget: "datetime"}
       - {label: "Foto", name: "thumbnail", widget: "image", required: false}
       - {label: "Inhalt", name: "body", widget: "markdown", required: false}
+  - name: "jubilaeum"
+    label: "Jubiläum"
+    folder: "content/pages/jubilaeum"
+    create: false
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Untertitel", name: "subtitle", widget: "string", required: false}
+      - {label: "Datum", name: "date", widget: "datetime"}
+      - {label: "Foto", name: "thumbnail", widget: "image", required: false}
+      - {label: "Inhalt", name: "body", widget: "markdown", required: false}
