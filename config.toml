@@ -1,4 +1,4 @@
-baseURL = "https://stamm-barrakuda.netlify.app/"
+baseURL = "https://barrakuda.de/"
 languageCode = "de-de"
 title = "Stamm Barrakuda"
 theme = "hugo-barrakuda-theme"
