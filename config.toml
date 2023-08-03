@@ -24,7 +24,7 @@ theme = "hugo-barrakuda-theme"
 
   [params.homepage_meta_tags]
     meta_description = "Stamm Barrakuda - Bester Stamm der Welt"
-    meta_og_title = "Hugo Hero Theme"
+    meta_og_title = "Stamm Barrakuda"
     meta_og_type = "website"
     meta_og_url = "https://barrakuda.de"
     # meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
