@@ -6,4 +6,4 @@ background: 'images/headers/LighterWoodenBackground.jpg'
 align: right
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+Auf die Fahrten und Lager freuen sich Pfadfinder*innen das ganze Jahr über und schwelgen in Erinnerungen an vergangene Fahrten. Weg von zuhause, ohne die Annehmlichkeiten des Alltags, beschränken sie sich auf die Dinge, die in ihre Rucksäcke passen. Pfadfinden ist untrennbar mit der Natur verbunden. Von Anfang an war das Leben in und mit der Natur für uns ein Weg, um das Wesentliche zu entdecken.
