@@ -58,8 +58,8 @@ Wenn der gewünschte Zeitraum frei ist, bitte das Anfrageformular im Buchungskal
 Bei weiteren Fragen wende dich bitte direkt an:
 
 ```
-Henrik Neugebauer, +49 1573 0495149,
-henrikn@muenchen-mail.de
+Luisa Scholz, +49 1512 2298082,
+eric.scholz2015@gmail.com
 ```
 
 Alternativ kannst du dich auch direkt beim Zuständigen des Freundeskreises melden:
