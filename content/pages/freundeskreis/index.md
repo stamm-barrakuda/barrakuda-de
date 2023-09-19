@@ -1,10 +1,9 @@
 ---
-title: 'Freundeskreis'
+title: Freundeskreis
 date: 2018-12-06T09:29:16+10:00
-layout: 'single'
-thumbnail: 'images/stammesheim/Stammesheim-1.jpg'
+layout: single
+thumbnail: images/stammesheim/Stammesheim-1.jpg
 ---
-
 Liebe Eltern, liebe Freunde der Barrakudas,
 
 wie Sie sicher wissen, besitzt der Stamm Barrakuda ein Stammesheim. In monatelanger Arbeit wurde es von den Pfadfindern in Eigenleistung erbaut und am 1.10.1993 eingeweiht.
@@ -27,15 +26,18 @@ Mit freundlichen Grüßen und Gut Pfad
 
 Marius, Michi und Julian
 
----
+- - -
+
 ## Mitgliedschaft
 
 **Fördernde Mitglieder:**
+
 * Fördernde Mitglieder unterstützen den Freundeskreis ideell und materiell
 * Durch ihre höhere finanzielle Unterstützung sichern Sie dem Freundeskreis das Erreichen seiner Ziele
 * Jahresbeitrag ab 30,00 EUR (gerne auch mehr)
 
 **Ordentliche Mitglieder:**
+
 * Ordentliche Mitglieder engagieren sich aktiv im Freundeskreis
 * Sie haben bei den Vereinsver-sammlungen ein aktives Stimmrecht und nehmen an Wahlen teil
 * Sie unterstützen aktiv in der Vereinsarbeit des Freundeskreises
@@ -43,27 +45,31 @@ Marius, Michi und Julian
 
 Egal welche Mitgliedschaft für Sie am besten passt: Lasst uns gemeinsam den Stamm Barrakuda unterstützen!
 
-
 ## Dokumente
-* [Anmeldung_FK_Barrakuda](https://cloud.barrakuda.de/s/eaESppzpeJSjKqT)
-* [Satzung 2015](https://cloud.barrakuda.de/s/yigemKkJS3zW26q)
 
+* [Anmeldung_FK_Barrakuda](https://cloud.barrakuda.de/s/Md7npAsoAwgbBkR)
+* [Satzung 2021](https://cloud.barrakuda.de/s/DcNgK488CbKCNxE)
 
 ## Spenden
+
 Spenden und Mitgliedsbeiträge können lt. Bescheid vom Finanzamt München von der Steuer abgesetzt werden.
 
-    Bankverbindung:
-    DE94 4306 0967 1244 3968 00
-    GLS Gemeinschaftsbank
-
+```
+Bankverbindung:
+DE94 4306 0967 1244 3968 00
+GLS Gemeinschaftsbank
+```
 
 ## Kontakt
-    Marius Herrmann
-    Vorsitzender
-    freundeskreis <at> barrakuda.de
 
-    Michael Weinberger
-    Stellv. Vorsitzender
+```
+Marius Herrmann
+Vorsitzender
+freundeskreis <at> barrakuda.de
 
-    Julian Kögel
-    Schatzmeister
+Michael Weinberger
+Stellv. Vorsitzender
+
+Julian Kögel
+Schatzmeister
+```
