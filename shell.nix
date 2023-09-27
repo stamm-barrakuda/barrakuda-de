@@ -10,4 +10,8 @@
 
     # libraries/dependencies
     buildInputs = with pkgs; [];
+
+    shellHook = ''
+      . ~/.config/netlify/helper/path.bash.inc
+    '';
 }
