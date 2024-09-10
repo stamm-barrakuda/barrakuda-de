@@ -6,5 +6,5 @@ icon: /images/uploads/Lilie.png
 meets: Montags, 17:30 bis 19:00
 years: 2010-2011
 leaders: Hannah, Keenan
-contact: keenan@barrakuda.de
+contact: stafue@barrakuda.e
 ---
