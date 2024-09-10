@@ -6,7 +6,7 @@ icon: images/uploads/Lilie.png
 meets: Mittwochs, 17:30 - 19:00
 years: 2005-2007
 leaders: Elias
-contact: eliassedl@gmail.com
+contact: stafue@barrakuda.de
 ---
 
 Die Sippe Monkeys hat sich 2023 mit der [Sippe Suppe](/gruppen/suppe) zusammengetan.
