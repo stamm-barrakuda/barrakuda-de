@@ -7,7 +7,7 @@ draft: false
 featured: true
 weight: 100
 
-meets: Mittwochs, 17:30 - 19:00
+meets: Mittwochs, 19:00 - 20:30
 years: 2008 - 2009
 leaders: Malte Marziniak
 contact: stafue@barrakuda.de
