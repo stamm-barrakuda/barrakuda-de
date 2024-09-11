@@ -5,6 +5,6 @@ weight: 3
 icon: /images/uploads/Lilie.png
 meets: Montags, 17:30 bis 19:00
 years: 2010-2011
-leaders: Hannah, Keenan
+leaders: Luisa
 contact: stafue@barrakuda.de
 ---
