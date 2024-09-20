@@ -1,19 +1,17 @@
-name: deploy
+name: sync_images
 on:
   workflow_dispatch:
   push:
     branches: [ next ]
+  schedule:
+    - cron: '0 4 * * *'
 
 jobs:
-  deploy:
+  sync-images:
     runs-on: ubuntu-latest
     steps:
       - name: 'Checkout repository'
         uses: actions/checkout@v4
-        with:
-          submodules: recursive
-          fetch-depth: 1
-          ssh-key: '${{ secrets.SSH_KEY }}'
       - name: 'Install Rclone config'
         env:
           RCLONE_CONFIG: ${{ secrets.RCLONE_CONFIG }}
@@ -27,10 +25,12 @@ jobs:
           mkdir -vp ~/.ssh
           echo "$SSH_KEY" > ~/.ssh/barrakuda-web-ci
           chmod -R 700 ~/.ssh
-      - name: 'Install Nix'
-        uses: DeterminateSystems/nix-installer-action@main
-      - name: 'Deploy'
+      - name: 'Update package database'
+        run: sudo apt-get update -y
+      - name: 'Install rsync'
+        run: sudo apt-get install rclone -y
+      - name: 'Sync images'
         run: |
           eval `ssh-agent -s`
           ssh-add ~/.ssh/barrakuda-web-ci
-          nix run .?submodules=1#deploy
+          rclone sync -v barrakuda-cloud:WebBilder barrakuda-web:html/barrakuda.de/images
