@@ -6,23 +6,35 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    steps:
       - name: 'Checkout repository'
         uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 1
+          ssh-key: '${{ secrets.SSH_KEY }}'
       - name: 'Install Rclone config'
+        env:
+          RCLONE_CONFIG: ${{ secrets.RCLONE_CONFIG }}
         run: |
           mkdir -vp ~/.config/rclone
-          echo "${{ secrets.rclone-config }}" > ~/.config/rclone/rclone.conf
+          echo "$RCLONE_CONFIG" > ~/.config/rclone/rclone.conf
       - name: 'Install SSH key'
+        env:
+          SSH_KEY: ${{ secrets.SSH_KEY }}
         run: |
           mkdir -vp ~/.ssh
-          chmod 700 ~/.ssh
-          echo "${{ secrets.ssh-key }}" > ~/.ssh/id_ed25519
+          echo "$SSH_KEY" > ~/.ssh/barrakuda-web-ci
+          chmod -R 700 ~/.ssh
       - name: 'Install Nix'
         uses: DeterminateSystems/nix-installer-action@main
-      - name: 'Setup Nix cache'
-        uses: DeterminateSystems/magic-nix-cache-action@main
-      - name 'Deploy'
-        run: "nix run .?submodules=1#deploy"
+      # - name: 'Setup Nix cache'
+      #   uses: DeterminateSystems/magic-nix-cache-action@main
+      - name: 'Deploy'
+        run: |
+          eval `ssh-agent -s`
+          ssh-add ~/.ssh/barrakuda-web-ci
+          nix run .?submodules=1#deploy
 
 
 
