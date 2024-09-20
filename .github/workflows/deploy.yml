@@ -29,11 +29,17 @@ jobs:
           chmod -R 700 ~/.ssh
       - name: 'Install Nix'
         uses: DeterminateSystems/nix-installer-action@main
+      - name: 'Update package database'
+        run: sudo apt-get update -y
+      - name: 'Install rsync'
+        run: sudo apt-get install rclone -y
+      - name: 'Build site'
+        run: 'nix build .?submodules=1'
       - name: 'Deploy'
         run: |
           eval `ssh-agent -s`
           ssh-add ~/.ssh/barrakuda-web-ci
-          nix run .?submodules=1#deploy
+          rclone sync -v ./result barrakuda-web:html/barrakuda.de/ --exclude images/
 
   sync-images:
     runs-on: ubuntu-latest
@@ -53,10 +59,12 @@ jobs:
           mkdir -vp ~/.ssh
           echo "$SSH_KEY" > ~/.ssh/barrakuda-web-ci
           chmod -R 700 ~/.ssh
-      - name: 'Install Nix'
-        uses: DeterminateSystems/nix-installer-action@main
+      - name: 'Update package database'
+        run: sudo apt-get update -y
+      - name: 'Install rsync'
+        run: sudo apt-get install rclone -y
       - name: 'Sync images'
         run: |
           eval `ssh-agent -s`
           ssh-add ~/.ssh/barrakuda-web-ci
-          nix run .#imgsync
+          rclone sync -v barrakuda-cloud:WebBilder barrakuda-web:html/barrakuda.de/images
