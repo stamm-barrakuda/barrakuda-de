@@ -1,0 +1,29 @@
+name: deploy
+on:
+  push:
+    branches: [ next ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+      - name: 'Checkout repository'
+        uses: actions/checkout@v4
+      - name: 'Install Rclone config'
+        run: |
+          mkdir -vp ~/.config/rclone
+          echo "${{ secrets.rclone-config }}" > ~/.config/rclone/rclone.conf
+      - name: 'Install SSH key'
+        run: |
+          mkdir -vp ~/.ssh
+          chmod 700 ~/.ssh
+          echo "${{ secrets.ssh-key }}" > ~/.ssh/id_ed25519
+      - name: 'Install Nix'
+        uses: DeterminateSystems/nix-installer-action@main
+      - name: 'Setup Nix cache'
+        uses: DeterminateSystems/magic-nix-cache-action@main
+      - name 'Deploy'
+        run: "nix run .?submodules=1#deploy"
+
+
+
+
