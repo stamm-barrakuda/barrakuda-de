@@ -3,9 +3,9 @@ title: Sippe Monkeys
 date: 2022-10-29T18:08:22.987Z
 weight: 105
 icon: images/uploads/Lilie.png
-meets: Mittwochs, 17:30 - 19:00
+meets: Mittwochs, 19:00 - 20:30
 years: 2005-2007
-leaders: Elias
+leaders: Malte
 contact: stafue@barrakuda.de
 ---
 
