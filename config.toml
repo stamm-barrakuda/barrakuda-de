@@ -50,10 +50,10 @@ theme = "hugo-barrakuda-theme"
     url = "/stammesheim/"
     weight = 4
 
-[[menu.main]]
-    name = "Jubiläum"
-    url = "/jubilaeum/"
-    weight = 5
+# [[menu.main]]
+#     name = "Jubiläum"
+#     url = "/jubilaeum/"
+#     weight = 5
 
 
 [permalinks]
