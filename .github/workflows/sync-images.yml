@@ -2,7 +2,7 @@ name: sync_images
 on:
   workflow_dispatch:
   push:
-    branches: [ next ]
+    branches: [ main ]
   schedule:
     - cron: '0 4 * * *'
 
