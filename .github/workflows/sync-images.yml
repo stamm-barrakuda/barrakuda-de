@@ -1,0 +1,36 @@
+name: sync_images
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 4 * * *'
+
+jobs:
+  sync-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout repository'
+        uses: actions/checkout@v4
+      - name: 'Install Rclone config'
+        env:
+          RCLONE_CONFIG: ${{ secrets.RCLONE_CONFIG }}
+        run: |
+          mkdir -vp ~/.config/rclone
+          echo "$RCLONE_CONFIG" > ~/.config/rclone/rclone.conf
+      - name: 'Install SSH key'
+        env:
+          SSH_KEY: ${{ secrets.SSH_KEY }}
+        run: |
+          mkdir -vp ~/.ssh
+          echo "$SSH_KEY" > ~/.ssh/barrakuda-web-ci
+          chmod -R 700 ~/.ssh
+      - name: 'Update package database'
+        run: sudo apt-get update -y
+      - name: 'Install rsync'
+        run: sudo apt-get install rclone -y
+      - name: 'Sync images'
+        run: |
+          eval `ssh-agent -s`
+          ssh-add ~/.ssh/barrakuda-web-ci
+          rclone sync -v barrakuda-cloud:WebBilder barrakuda-web:html/barrakuda.de/images
