@@ -1,7 +1,7 @@
 ---
 title: Sippe Monkeys
 date: 2022-10-29T18:08:22.987Z
-weight: 105
+weight: 1105
 icon: images/uploads/Lilie.png
 meets: Mittwochs, 19:00 - 20:30
 years: 2005-2007
