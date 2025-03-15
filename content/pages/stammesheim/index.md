@@ -59,7 +59,7 @@ Bei weiteren Fragen wende dich bitte direkt an:
 
 ```
 Luisa Scholz, +49 1512 2298082,
-eric.scholz2015@gmail.com
+luisa2007.scholz@gmail.com
 ```
 
 Alternativ kannst du dich auch direkt beim Zuständigen des Freundeskreises melden:
