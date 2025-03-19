@@ -8,9 +8,13 @@ images:
   - images/stammesheim/Stammesheim-2.jpg
   - images/stammesheim/Stammesheim-3.jpg
 ---
-Das Haus besteht aus einem großem Raum, in dem unsere Jüngsten toben können, einem etwas kleineren Raum mit Sofas, einer Küche und einem Bad mit Dusche.
-Bis zu 12 Personen können im Haus übernachten, wobei Schlafsack und Isomatte mitgebracht werden müssen.
+Das Haus besteht aus einem großen Raum, in dem unsere Jüngsten toben können, einem etwas kleineren Raum mit Sofas, einer Küche und einem Bad mit Dusche.
+Bis zu 15 Personen können im Haus übernachten, wobei Schlafsack und Isomatte mitgebracht werden müssen.\
+Im eigenen Garten kann gespielt, gebaut und Lagerfeuer gemacht werden. Für mehrere Zelte ist Platz.
 Unser Heim liegt ca. 15 Minuten zu Fuß von der S-Bahn-Haltestelle Baldham entfernt.
+
+**Achtung: Das Stammesheim kann für Partys oder nächtliche Geburtstagsfeiern grundsätzlich nicht angemietet werden.**
+
 
 ## Ausstattung
 
@@ -48,7 +52,6 @@ Solltet ihr Internet benötigen steht euch außerdem ein WLAN-Zugang zu Verfügu
 * Bitte hinterlasst keinen Abfall. Wird Müll hinterlassen, berechnen wir **je Tüte Restmüll 20,- Euro**.
 * Die Preise verstehen sich inkl. Strom, Heizung und sonstiger Kosten.
 * In der Schulzeit finden Montag bis Donnerstag regelmäßig Gruppenstunden statt. Bitte beachte unseren Kalender.
-* Für Vereine aus der näheren Umgebung sind auf Anfrage Nachlässe möglich.
 
 ## Buchung
 
