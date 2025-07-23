@@ -1,5 +1,5 @@
 ---
-title: Neue Meute
+title: Meute Minions
 date: 2022-10-29T18:01:48.580Z
 weight: 999
 icon: /images/uploads/Wolf.png
