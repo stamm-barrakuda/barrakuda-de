@@ -63,13 +63,13 @@ GLS Gemeinschaftsbank
 ## Kontakt
 
 ```
-Marius Herrmann
+Leo Menczigar
 Vorsitzender
 freundeskreis <at> barrakuda.de
 
 Michael Weinberger
 Stellv. Vorsitzender
 
-Julian Kögel
+Johann Höger
 Schatzmeister
 ```
