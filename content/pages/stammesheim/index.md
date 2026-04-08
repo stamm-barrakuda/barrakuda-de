@@ -16,7 +16,6 @@ Unser Heim liegt ca. 15 Minuten zu Fuß von der S-Bahn-Haltestelle Baldham entfe
 
 **Achtung: Das Stammesheim kann für Partys oder nächtliche Geburtstagsfeiern grundsätzlich nicht angemietet werden.**
 
-
 ## Ausstattung
 
 In der Küche findet ihr Spüle, Herd und Ofen.
@@ -69,7 +68,7 @@ luisa2007.scholz@gmail.com
 Alternativ kannst du dich auch direkt beim Zuständigen des Freundeskreises melden:
 
 ```
-Julian Kögel, Handy: 0170-5777300 oder ju.koegel@gmail.com
+Johann Höger, Handy: +49 176 22330321 oder johann@hoeger.org
 ```
 
 #### Adresse:
