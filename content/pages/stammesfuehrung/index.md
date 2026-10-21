@@ -7,7 +7,6 @@ thumbnail: images/stammesfuehrung/Stafue-1.jpg
 ---
 ```
 Stammesführung: Maja Christ
-Stellv. Stammesführung: Malte Marziniak
 Stellv. Stammesführung: Ole Marziniak
 Schatzmeister: Keenan Christ
 Stellv. Schatzmeister: Tom Hanke
